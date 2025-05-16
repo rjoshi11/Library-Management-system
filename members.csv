@@ -1,0 +1,5 @@
+MemberID,Name,PasswordHash,Email,JoinDate
+admin,Librarian,$2b$12$4uTNXAXvfafY/FjnVqf7peFaLLJevUveBPRhgejdKO93tsxJ5XpOy,admin@lib.com,01-05-2025
+1001,Alice,$2b$12$4vQrYgQeiB0eUgW.4UVsveqqRRqj6VtcVdf/ojVKA8u8.6slIomku,alice@mail.com,01-05-2025
+1002,Bob,$2b$12$Ii7der2qJTogFllWF5G.YOif695WXTktHVLi4RdugN1qn06jTtWXq,bob@mail.com,01-05-2025
+1003,Rachel,$2b$12$BUrwAuMgKOqGajcouXCXCe26xD.E9JSijb/7r4531GlTnPQUF7D3.,rachel@mail.com,2025-05-16
