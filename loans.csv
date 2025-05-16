@@ -1,3 +1,3 @@
-LoanID,MemberID,ISBN,IssueDate,DueDate,ReturnDate
+LoanID	MemberID	ISBN	IssueDate	DueDate	ReturnDate
 1	1001	9.78E+12	11-05-2025	15-05-2025	
 2	1004	9.06484E+12	16-05-2025	30-05-2025	
